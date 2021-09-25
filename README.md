@@ -1,16 +1,12 @@
-## Maryam Sadeghian
-##### MS Dynamics AX 2012 Developer
-# Social Links
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="keywords" content="Ali Aboutalebi,.Net Developer,Portfolio" />
-    <meta name="description" content="Ali Aboutalebi's Personal Portfolio" />
-    <title>Ali Aboutalebi's Portfolio</title>
+    <meta name="keywords" content="Maryam Sadeghian,MS Dynamics AX 2012 Developer,Portfolio" />
+    <meta name="description" content="Maryam Sadeghian's Personal Portfolio" />
+    <title>Maryam Sadeghian's Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="site.css" />
     <link rel="stylesheet" href="timeline.css" />
@@ -36,8 +32,8 @@
             />
             <div class="text-center" style="position:absolute; left:0; top:0; width:fit-content; z-index:2; margin-left:120px; margin-top:40px;">
                 <img src="image/me.jpg" class="rounded-circle m-2" style="width:190px; border:white solid 2px;" />
-                <h3>Ali Aboutalebi</h3>
-                <h5>Full Stack Developer</h5>
+                <h3>Maryam Sadeghian</h3>
+                <h5>MS Dynamics AX 2012 Developer</h5>
             </div>
         </div>
     </header>
@@ -46,7 +42,7 @@
             <h1>Social Links</h1>
             <ul class="socialLinks">
                 <li>
-                    <a href="https://linkedin.com/in/ali-aboutalebi">
+                    <a href="https://www.linkedin.com/in/maryam-sadeghian-0275b541/">
                         <img src="image/linkedin.png" />
                         <span>LinkedIn</span>
                     </a>
@@ -79,28 +75,26 @@
                     <ul class="skills">
                         <li>C#</li>
                         <li>.Net Core</li>
-                        <li>ASP.Net Core</li>
-                        <li>Blazor</li>
-                        <li>MVC</li>
-                        <li>Git</li>
-                        <li>TDD</li>
-                        <li>Docker</li>
-                        <li>MicroServices</li>
+                        <li>X++</li>
                         <li>Java</li>
-                        <li>Android</li>
+                        <li>MVC</li>
+                        <li>C++</li>
+                        <li>TSQL</li>
+                        <li>OLAP</li>
+                        <li>PowerBI</li>
+                        <li>SSRS</li>
+                        <li>SSAS</li>
                         <li>JavaScript</li>
-                        <li>Bootstrap</li>
-                        <li>Machine Vision</li>
-                        <li>Game Development</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="m-3">Team Working</h4>
                     <ul class="skills">
-                        <li>Agile</li>
-                        <li>Scrum</li>
-                        <li>Azure DevOps</li>
-                        <li>Slack</li>
+                        <li>Flexibility</li>
+                        <li>Leadership</li>
+                        <li>Negotiation</li>
+                        <li>Problem-solving</li>
+                        <li>Commitment to work and deadlines</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -109,9 +103,7 @@
                         <li>SQL</li>
                         <li>Sql Server</li>
                         <li>MySql</li>
-                        <li>NoSql</li>
-                        <li>MongoDB</li>
-                        <li>Redis</li>
+                        <li>Oracle</li>
                     </ul>
                 </div>
             </div>
