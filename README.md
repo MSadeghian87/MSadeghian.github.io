@@ -1,9 +1,5 @@
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="keywords" content="Maryam Sadeghian,MS Dynamics AX 2012 Developer,Portfolio" />
-    <meta name="description" content="Maryam Sadeghian's Personal Portfolio" />
-    
+     
     <link rel="stylesheet" href="site.css" />
     <link rel="stylesheet" href="timeline.css" />
     <link rel="shortcut icon" href="#">
