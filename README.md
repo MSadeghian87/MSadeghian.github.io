@@ -237,7 +237,37 @@
                             <ul>
                                 <li>Role: J2EE Developer</li>
                                 <li>Duration: 7 months</li>
-                                <li>Tech Stack: Java, Struts2, EJB3, Oracle 11g, jbuilder2008, JasperReport</li>
+                                <li>Tech Stack: Java, Struts2, EJB3, Oracle 11g, Eclipse, JasperReport</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="tl-entry">
+                        <div class="tl-title">
+                            <h3>2011</h3>
+                            <p>MIS System</p>
+                            <p>Iranian Yas Fava</p>
+                        </div>
+                        <div class="tl-body">
+                            <p>A J2ee software to generate a comprehensive information and communication technology system of Yas Goods Services Company.</p>
+                            <ul>
+                                <li>Role: J2EE Developer</li>
+                                <li>Duration:4 months</li>
+                                <li>Tech Stack: Java, Struts2, EJB3, Oracle 11g, Eclipse, JasperReport</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="tl-entry">
+                        <div class="tl-title">
+                            <h3>2011</h3>
+                            <p>IVR System</p>
+                            <p>Iran Fava Gostaresh</p>
+                        </div>
+                        <div class="tl-body">
+                            <p>An IVR system based on a j2ee application to create an electronic issuance and payment of Water and electricity bills of the Ministry of Energy.</p>
+                            <ul>
+                                <li>Role: IVR Developer</li>
+                                <li>Duration: 1 year and 6 months</li>
+                                <li>Tech Stack: Java, Struts2, EJB3, Oracle 11g, Asterisk, Elastix, Linux os.</li>
                             </ul>
                         </div>
                     </div>
@@ -258,196 +288,36 @@
                     </div>
                     <div class="tl-entry">
                         <div class="tl-title">
-                            <h3>2019</h3>
-                            <p>Freelance Project</p>
-                            <p>Baltazar</p>
+                            <h3>2008</h3>
+                            <p>J2EE MIS system</p>
+                            <p>Irisa</p>
                         </div>
                         <div class="tl-body">
-                            <p>A mobile based social network for students to solve their educational problems.</p>
+                            <p>A Dynamic Master Data system based on Oracle ADF business components and jsf which can be created and defined by users
+and Comprehensive information systems of Exir Pharmaceutical Company (production and logistics - finance - business - human resources)
+</p>
                             <ul>
-                                <li>Role: Full Stack Developer (Android / Web / Backend)</li>
-                                <li>Duration: 4 Months</li>
-                                <li>Tech Stack: C#, ASP.Net Core MVC, MongoDB, Restful, Android, Java, Retrofit, EventBus, Push Notifications</li>
-                            </ul>
-                            <a href="https://github.com/aliaa/BaltazarWeb" class="btn btn-primary">Web Project Source</a>
-                            <a href="https://github.com/aliaa/BaltazarAndroid" class="btn btn-primary">Android Project Source</a>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2018</h3>
-                            <p>TCI</p>
-                            <p>TCI Automated Telephony Announcement</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>Automatically telephone calling customers to announce them about some events like depts and offers, using VOIP channels.</p>
-                            <ul>
-                                <li>Role: Web Developer</li>
-                                <li>Duration: 4 Months</li>
-                                <li>Tech Stack: C#, ASP.Net, MongoDB, Sql Server, RabbitMQ, Restful.</li>
+                                <li>Role: Senior J2EE Developer and Leader</li>
+                                <li>Duration: 23 months</li>
+                                <li>Tech Stack: Java, JDeveloper 10.1.3, Oracle ADF business components, JSF</li>
                             </ul>
                         </div>
                     </div>
                     <div class="tl-entry">
                         <div class="tl-title">
-                            <h3>2018</h3>
-                            <p>Freelance Project</p>
-                            <p>Bibimiz</p>
+                            <h3>2008</h3>
+                            <p>J2EE Office Automation</p>
+                            <p>Behpardaz Jahan</p>
                         </div>
                         <div class="tl-body">
-                            <p>A home-cooking food market network. Member of a 10 person team consisting of 4 developers, using Scrum methodologies.</p>
+                            <p>A j2ee web application for Office Automation System of the Atomic Energy Organization.</p>
                             <ul>
-                                <li>Role: Android Developer</li>
-                                <li>Duration: 4 Months</li>
-                                <li>Tech Stack: Android, Java, Retrofit, EventBus, Push Notifications, PHP, Restful, MySql</li>
-                            </ul>
-                            <a href="https://cafebazaar.ir/app/co.apprang.bibimiz/?l=en" class="btn btn-success">Download Customer App</a>
-                            <a href="https://cafebazaar.ir/app/co.apprang.bibimiz_chef/?l=en" class="btn btn-success">Download Chef App</a>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2017</h3>
-                            <p>TCI</p>
-                            <p style="text-decoration: line-through;">TCI Energy Management</p>
-                            <i>(Deprecated and Rewritten)</i>
-                        </div>
-                        <div class="tl-body">
-                            <p>The project is about to manage electricity bills of company and automatically analyze them in order to use energy efficiently.</p>
-                            <ul>
-                                <li>Role: Full Stack Developer & Project Manager</li>
-                                <!--<li>Duration: 5 Months</li>-->
-                                <li>Tech Stack: C#, ASP.Net, MongoDB</li>
+                                <li>Role: J2EE Analyzer,Designer and Developer.</li>
+                                <li>Duration: 2 years</li>
+                                <li>Tech Stack: Java, Ejb, Struts, RUP, Uml, Oracle 10g</li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2017</h3>
-                            <p>TCI</p>
-                            <p>TCI GenericDoc</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>A multilingual project to create any kind of workflows in order to design forms, fill, search and make various reports. The main idea is creating forms and putting them inside a process, in order to create a workflow.</p>
-                            <ul>
-                                <li>Role: Full Stack Developer & Project Manager</li>
-                                <li>Duration: 5 Months</li>
-                                <li>Tech Stack: C#, ASP.Net, MongoDB, formBuilder</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2016</h3>
-                            <p>TCI</p>
-                            <p style="text-decoration: line-through;">TCI Preventive Maintenance (PM) System </p>
-                            <i>(Deprecated and Rewritten)</i>
-                        </div>
-                        <div class="tl-body">
-                            <p>A web and Android software to submit periodical PM checks about company’s equipments and creating various reports.</p>
-                            <ul>
-                                <li>Role: Full Stack Developer (Web / Android / Backend) & Project Manager</li>
-                                <li>Duration: 8 Months</li>
-                                <li>Tech Stack: C#, ASP.Net, MongoDB, Sql Server, Restful, Telerik, EPPlus, Ninject, Android, Java, Retrofit</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2015</h3>
-                            <p>TCI</p>
-                            <p>TCI Manholes Management GIS</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>A Web and Android based software to manage Telecommunication manholes on the streets and show them on the map and their connections (ducts and cables) between them.</p>
-                            <ul>
-                                <li>Role: Full Stack Developer & Project Manager</li>
-                                <li>Duration: 8 Months</li>
-                                <li>Tech Stack: C#, ASP.Net, Android, Retrofit, OpenStreetMaps, ZoomCharts, JQuery</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2014</h3>
-                            <p>TCI</p>
-                            <p>TCI Ticketing & CRM</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>A web-based software to circulate tickets which is highly customized for company needs. Also to manage customers and hardwares.</p>
-                            <ul>
-                                <li>Role: Full Stack Developer & Project Manager</li>
-                                <li>Duration: 6 Months</li>
-                                <li>Tech Stack: C#, ASP.Net, MongoDB, Sql Server, JavaScript, JQuery, RabbitMQ, SignalR, Telerik, EPPlus, Ninject</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2014</h3>
-                            <p>IKCO</p>
-                            <p>IKCO Mobile Automation System</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>
-                                A fully dynamic procedural automation system to for example scan barcodes of products in production line and fill some forms after it in an Android device and sync with server. IKCO is the biggest car manufacturer in Iran.
-                            </p>
-                            <ul>
-                                <li>Role: Full Stack Developer (Android / Web / Backend)</li>
-                                <li>Duration: 4 Months</li>
-                                <li>Tech Stack: C#, ASP.Net, Sql Server, Android</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2013</h3>
-                            <p>Persoanl Project</p>
-                            <p>Free the Birds Game</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>
-                                A 2D arcade Angry Birds like game written in java using LibGDX library.<br />
-                                <a href="https://libgdx.badlogicgames.com/" style="text-decoration:underline;">LibGDX</a> is a multi-platform game library that can create outputs for Android, IOS and JRE Desktop app.
-                            </p>
-                            <ul>
-                                <li>Role: Game Developer</li>
-                                <li>Duration: 1 Year</li>
-                                <li>Tech Stack: Java, LibGDX</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2012</h3>
-                            <p>Personal Project</p>
-                            <p>Shelfinfo Startup</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>A social network app to share buying experiences.</p>
-                            <ul>
-                                <li>Role: Android Developer</li>
-                                <li>Duration: 6 Months</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="tl-entry">
-                        <div class="tl-title">
-                            <h3>2009</h3>
-                            <p>Tabriz University</p>
-                            <p>Robots Driving Software</p>
-                        </div>
-                        <div class="tl-body">
-                            <p>
-                                A software for “Robocup Small-Size League” competition for Tabriz University Robotic Group.<br /> A software that takes data from Vision and Referee Systems and after making decisions to play football for each 5 robots,
-                                sends commands via wireless to each one every 10ms.
-                            </p>
-                            <ul>
-                                <li>Role: C# Developer</li>
-                                <li>Duration: 1 Year</li>
-                            </ul>
-                        </div>
-                    </div>
+                    </div
                 </div>
             </div>
         </div>
