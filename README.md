@@ -20,7 +20,7 @@
                 <ul class="navbar-nav flex-grow-1">
                     <li class="nav-item">
                         <a class="nav-link text-light" href="https://msadeghian87.github.io/">
-                            <img src="image/github.png" height="20" class="align-top" /> My GitHub
+                            <img src="github.png" height="20" class="align-top" /> My GitHub
                         </a>
                     </li>
                 </ul>
@@ -42,25 +42,25 @@
             <ul class="socialLinks">
                 <li>
                     <a href="https://www.linkedin.com/in/maryam-sadeghian-0275b541/">
-                        <img src="image/linkedin.png" />
+                        <img src="linkedin.png" />
                         <span>LinkedIn</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://github.com/aliaa">
-                        <img src="image/github.png" />
+                        <img src="github.png" />
                         <span>GitHub</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://stackoverflow.com/users/1362571/aliaaa">
-                        <img src="image/stackoverflow.png" />
+                        <img src="stackoverflow.png" />
                         <span>StackOverflow</span>
                     </a>
                 </li>
                 <li>
                     <a href="https://www.hackerrank.com/abootalebi">
-                        <img src="image/hackerrank.png" />
+                        <img src="hackerrank.png" />
                         <span>HackerRank</span>
                     </a>
                 </li>
@@ -72,30 +72,31 @@
                 <div class="col-lg-4 col-md-6">
                     <h4 class="m-3">Programming</h4>
                     <ul class="skills">
-                        <li>C#</li>
+                        <li>X++</li>
+                        <li>C++</li>
                         <li>.Net Core</li>
-                        <li>ASP.Net Core</li>
-                        <li>Blazor</li>
+                        <li>Java Core</li>
                         <li>MVC</li>
-                        <li>Git</li>
-                        <li>TDD</li>
-                        <li>Docker</li>
-                        <li>MicroServices</li>
-                        <li>Java</li>
-                        <li>Android</li>
+                        <li>SSRS</li>
+                        <li>OLAP</li>
+                        <li>SSAS</li>
                         <li>JavaScript</li>
-                        <li>Bootstrap</li>
-                        <li>Machine Vision</li>
-                        <li>Game Development</li>
+                        <li>PowerBI</li>
+                        <li>RUP</li>
+                        <li>UML</li>
+                        <li>Documentation</li>
+                        <li>System Administration</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="m-3">Team Working</h4>
                     <ul class="skills">
-                        <li>Agile</li>
-                        <li>Scrum</li>
+                        <li>VSS</li>
+                        <li>TFS</li>
                         <li>Azure DevOps</li>
-                        <li>Slack</li>
+                        <li>Agile</li>
+                        <li>Jira</li>
+                        <li>Rational ClearQuest</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -104,9 +105,7 @@
                         <li>SQL</li>
                         <li>Sql Server</li>
                         <li>MySql</li>
-                        <li>NoSql</li>
-                        <li>MongoDB</li>
-                        <li>Redis</li>
+                        <li>Oracle</li>
                     </ul>
                 </div>
             </div>
