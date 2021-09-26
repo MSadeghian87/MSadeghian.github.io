@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="timeline.css" />
     <link rel="shortcut icon" href="#">
 </head>
-
+<body class="text-white" style="background-color:#175582;">
     <header style="height:500px;">
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark">
             <div class="container">
@@ -320,5 +320,5 @@ and Comprehensive information systems of Exir Pharmaceutical Company (production
             </div>
         </div>
     </div>
-
+            </body>
 
