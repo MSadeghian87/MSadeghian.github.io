@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="keywords" content="Maryam Sadeghian,.Net Developer,Portfolio" />
+    <meta name="keywords" content="Maryam Sadeghian,MS Dynamics AX Developer,Portfolio" />
     <meta name="description" content="Maryam Sadeghian's Personal Portfolio" />
     <title>Maryam Sadeghian's Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -114,14 +114,29 @@
             <h1>Employment</h1>
             <ul class="mt-4 row">
                 <li class="col-lg-4 col-md-6">
-                    <a href="http://www.gamefacto.com/">GameFacto</a><br>
-                    <span style="color:#bbb;">2021 - Now</span><br/>
-                    <span style="color:#bbb;">Back-End Developer</span>
+                    <a href="http://www.gamefacto.com/">Mojdeh co.</a><br>
+                    <span style="color:#bbb;">2019 - 2020</span><br/>
+                    <span style="color:#bbb;">MS Dynamics AX 2012 Developer & MS PowerBI dashboard designer</span>
                 </li>
                 <li class="col-lg-4 col-md-6">
-                    <a href="https://www.tci.ir/">TCI co. (Tele-Communications of Iran)</a><br>
-                    <span style="color:#bbb;">2013 - 2020</span><br/>
-                    <span style="color:#bbb;">Full-Stack Developer</span>
+                    <a href="https://www.tci.ir/">Atlas Khodro co. (GBG:Golestan business group)</a><br>
+                    <span style="color:#bbb;">2013 - 2016</span><br/>
+                    <span style="color:#bbb;">MS Dynamics Ax 2009 Developer</span>
+                </li>
+                <li class="col-lg-4 col-md-6">
+                    <a href="https://www.tci.ir/">Iran Fava Gostaresh and Yas Favaye Iranian</a><br>
+                    <span style="color:#bbb;">2008 - 2012</span><br/>
+                    <span style="color:#bbb;">J2EE Developer</span>
+                </li>
+                <li class="col-lg-4 col-md-6">
+                    <a href="https://www.tci.ir/">IRISA – International Systems Engineering & Automation Company</a><br>
+                    <span style="color:#bbb;">2006 - 2008</span><br/>
+                    <span style="color:#bbb;">J2EE Developer</span>
+                </li>
+                <li class="col-lg-4 col-md-6">
+                    <a href="https://www.tci.ir/">Behpardaz Jahan</a><br>
+                    <span style="color:#bbb;">2003 - 2006</span><br/>
+                    <span style="color:#bbb;">J2EE Developer</span>
                 </li>
             </ul>
         </div>
@@ -132,16 +147,16 @@
                     <div class="tl-entry">
                         <div class="tl-title">
                             <h3>2021</h3>
-                            <p>GameFacto</p>
-                            <p>Raft Wars Game</p>
+                            <p>MS Dynamics AX 2012</p>
+                            <p>Tosan</p>
                         </div>
                         <div class="tl-body">
                             <p>
-                                Providing APIs using platforms such as PlayFab, Azure Functions, SignalR and Firebase for a Unity project.
+                                Deploy and Customization of AR, AP, GL, Procurement and sourcing, Sales and Marketing,Inventory Management for Tosan company with a project based contract and a small-scale team.
                             </p>
                             <ul>
-                                <li>Role: Beck-End Developer</li>
-                                <li>Tech Stack: C#, Unity, TypeScript, Azure Functions, SignalR, PlayFab, Firebase.</li>
+                                <li>Role: Dynamics AX Developer</li>
+                                <li>Tech Stack: X++, TSQL, Dynamics AX 2012, Sql Server 2016, Visual studio 2013, PowerBI desktop and server.</li>
                             </ul>
                         </div>
                     </div>
