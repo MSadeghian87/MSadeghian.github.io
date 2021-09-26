@@ -147,12 +147,12 @@
                     <div class="tl-entry">
                         <div class="tl-title">
                             <h3>2021</h3>
-                            <p>MS Dynamics AX 2012</p>
+                            <p>ERP:MS Dynamics AX 2012</p>
                             <p>Tosan</p>
                         </div>
                         <div class="tl-body">
                             <p>
-                                Deploy and Customization of AR, AP, GL, Procurement and sourcing, Sales and Marketing,Inventory Management for Tosan company with a project based contract and a small-scale team.
+                                Deploy and Customization of AR, AP, GL, Procurement and sourcing, Sales and Marketing,Inventory Management Modules of Microsoft Dynamics AX 2012 R3, for Tosan company with a project based contract and a small-scale team.
                             </p>
                             <ul>
                                 <li>Role: Dynamics AX Developer</li>
@@ -163,74 +163,97 @@
                     <div class="tl-entry">
                         <div class="tl-title">
                             <h3>2020</h3>
-                            <p>TCI</p>
-                            <p>TCI Energy Management</p>
+                            <p>PowerBI Dashboard</p>
+                            <p>Mojdeh</p>
                         </div>
                         <div class="tl-body">
                             <p>
-                                An Asp.net Core Blazor project for TCI co. rewritten from former Asp.Net project developed also by me at 2017.<br /> The project is about to manage electricity bills of company and automatically analyze them in order to
-                                use energy efficiently.
+                                Design and publish some analytical and trend dashboards such as Sales, Business efficiency, Tracking the request's flow, Procurement in PowerBI desktop and report server. 
                             </p>
                             <ul>
-                                <li>Role: Full Stack Developer</li>
-                                <li>Duration: 3 Months</li>
-                                <li>Tech Stack: C#, Blazor, WebAssembly, Chart.js, ASP.Net Core, MongoDB</li>
+                                <li>Role: Dashboard Analyzer,Designer and Developer</li>
+                                <li>Duration: 6 Months</li>
+                                <li>Tech Stack: OLAP, TSQL, SSAS, AX cubes, PowerBI desktop</li>
                             </ul>
-                            <a href="https://github.com/aliaa/TciEnergy.Blazor" class="btn btn-primary">Source</a>
                         </div>
                     </div>
                     <div class="tl-entry">
                         <div class="tl-title">
                             <h3>2020</h3>
-                            <p>TCI</p>
-                            <p>TCI PM</p>
+                            <p>ERP:MS Dynamics AX 2012 R3</p>
+                            <p>Mojdeh</p>
                         </div>
                         <div class="tl-body">
                             <p>
-                                An Asp.Net Core Blazor project for TCI co. rewritten from former Asp.Net project developed also by me at 2016.<br /> The aim is to submit periodical PM (Preventive Maintenance) checks for equipments and generating various
-                                reports.
+                                Customizing the Transformation management module of AX to cover the need of user in shipment and routing process.In addition, Creating some SSRS reports to AR, AP, GL and IM modules. We also add a middle-scale subsystem to AX for the process of iranian governmental order registration.All it's object was new.
                             </p>
                             <ul>
-                                <li>Role: Full Stack Developer</li>
-                                <li>Duration: In progress</li>
-                                <li>Tech Stack: C#, Blazor, WebAssembly, Chart.js, ASP.Net Core, MongoDB</li>
+                                <li>Role: Dynamics AX Developer</li>
+                                <li>15 months</li>
+                                <li>Tech Stack: Dynamics AX 2012 R3, X++, TSQL, SSRS reports</li>
                             </ul>
-                            <a href="https://github.com/aliaa/TciPM.Blazor" class="btn btn-primary">Source</a>
                         </div>
                     </div>
                     <div class="tl-entry">
                         <div class="tl-title">
-                            <h3>2020</h3>
-                            <p>TCI</p>
-                            <p>TCI Data Links</p>
+                            <h3>2016</h3>
+                            <p>ERP:Dynamics axapta(AX2009)</p>
+                            <p>GBG</p>
                         </div>
                         <div class="tl-body">
                             <p>
-                                An Asp.Net Core project for TCI co. to manage their network devices and connections. <br /> To visualize the network connections I've used Go.js library.
+                                I was member of a big IT department in GBG holding to deploy and customize the ERP:Dynamics Axapta in all gbg's Subsidiary companies and support it. We could run AR, AP, GL, Im, Human resource, and Fixed asset modules successfully and create some valuable reports that does not exist in the software.
                             </p>
                             <ul>
-                                <li>Role: Full Stack Developer</li>
-                                <li>Duration: 3 Months</li>
-                                <li>Tech Stack: C#, ASP.Net Core MVC, JQuery, Bootstrap, MongoDB, Go.js</li>
+                                <li>Role: AX Developer</li>
+                                <li>Duration: 3 Years and 7 months</li>
+                                <li>Tech Stack: X++, Dynamics AXAPTA, TSQL, SSRS reports</li>
                             </ul>
-                            <a href="https://github.com/aliaa/TciDataLinks" class="btn btn-primary">Source</a>
                         </div>
                     </div>
                     <div class="tl-entry">
                         <div class="tl-title">
-                            <h3>2020</h3>
-                            <p>Personal Project</p>
-                            <p>CV Generator.Net</p>
+                            <h3>2013</h3>
+                            <p>ERP:SAP</p>
+                            <p>Samin Aria Toos</p>
                         </div>
                         <div class="tl-body">
-                            <p>An ASP.Net Core project to generate CV from user's information.</p>
+                            <p>Business requirment analyzing phaze of SAP ERP implementing in a ditribution company ii order to achieve best practice.</p>
                             <ul>
-                                <li>Role: Full Stack Developer</li>
-                                <li>Duration: 1 week</li>
-                                <li>Tech Stack: C#, ASP.Net Core, MVC, Docker, MongoDB, Puppeteer-Sharp</li>
+                                <li>Role: Analyzer</li>
+                                <li>Duration: 6 months</li>
+                                <li>Tech Stack: SAP docs, Oracle</li>
                             </ul>
-                            <a href="https://github.com/aliaa/CvGenerator.Net" class="btn btn-primary">Source</a>
-                            <a href="https://cvgen-net.azurewebsites.net/" class="btn btn-success">See Online</a>
+                        </div>
+                    </div>
+                    <div class="tl-entry">
+                        <div class="tl-title">
+                            <h3>2012</h3>
+                            <p>Comprehensive financial system</p>
+                            <p>Tehran University of Medical Sciences and Health Services</p>
+                        </div>
+                        <div class="tl-body">
+                            <p>A J2ee software to manage financial issues of Tehran University of Medical Sciences and Health Services.</p>
+                            <ul>
+                                <li>Role: J2EE Developer</li>
+                                <li>Duration: 7 months</li>
+                                <li>Tech Stack: Java, Struts2, EJB3, Oracle 11g, jbuilder2008, JasperReport</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="tl-entry">
+                        <div class="tl-title">
+                            <h3>2009</h3>
+                            <p>Cost and Tariff system</p>
+                            <p>Iran Fava Gostaresh </p>
+                        </div>
+                        <div class="tl-body">
+                            <p>A J2ee software to generate a comprehensive system of cost and tariff determination of infrastructure telecommunication company.</p>
+                            <ul>
+                                <li>Role: J2EE Developer</li>
+                                <li>Duration: 13 months</li>
+                                <li>Tech Stack: Java, Struts2, EJB3, Oracle 11g, jbuilder2008, JasperReport</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="tl-entry">
