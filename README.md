@@ -315,7 +315,7 @@ and Comprehensive information systems of Exir Pharmaceutical Company (production
                                 <li>Tech Stack: Java, Ejb, Struts, RUP, Uml, Oracle 10g</li>
                             </ul>
                         </div>
-                    </div
+                    </div>
                 </div>
             </div>
         </div>
