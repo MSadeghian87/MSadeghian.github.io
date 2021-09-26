@@ -45,21 +45,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://github.com/aliaa">
+                    <a href="https://github.com/MSadeghian87">
                         <img src="github.png" />
                         <span>GitHub</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://stackoverflow.com/users/1362571/aliaaa">
-                        <img src="stackoverflow.png" />
-                        <span>StackOverflow</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.hackerrank.com/abootalebi">
-                        <img src="hackerrank.png" />
-                        <span>HackerRank</span>
                     </a>
                 </li>
             </ul>
