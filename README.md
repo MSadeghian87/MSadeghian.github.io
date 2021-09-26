@@ -1,4 +1,3 @@
-<html lang="en">
 
 <head>
     <meta charset="utf-8" />
@@ -324,4 +323,4 @@ and Comprehensive information systems of Exir Pharmaceutical Company (production
     </div>
 </body>
 
-</html>
+
